@@ -40,7 +40,8 @@ Add this to your package's pubspec.yaml file:
 
 ```yaml
 dependencies:
-  flutter_echarts: #latest version
+  flutter_echarts:
+    git: https://github.com/kuma0605/flutter_echarts
 ```
 
 Now in your Dart code, you can use:
